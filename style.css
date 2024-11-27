@@ -1,0 +1,58 @@
+body{
+    animation: change 2s infinite;
+}
+@keyframes change{
+    0%{
+        background-color: red;
+    }
+    20%{
+        background-color: orange;
+    }
+    40%{
+        background-color: yellow;
+    }
+    60%{
+        background-color: green;
+    }
+    80%{
+        background-color: blue;
+    }
+    100%{
+        background-color: purple;
+    }
+}
+a{
+    color: yellowgreen;
+    cursor: auto;
+    font-size: 50px;
+}
+select{
+    background-color: aqua;
+    color: teal;
+    cursor: copy;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Create a new HTML file and name it "index.html".
+2. Write the basic HTML structure, including the doctype, html, head, and body tags.
+3. Add a title to your website using the <title> tag.
+4. Create a heading that says "Welcome to My Animal Website!" using the <h1> tag.
+5. Add an image of your favorite animal using the <img> tag.
+6. Create a CSS file named "styles.css" and link it to your HTML file.
+7. Use CSS to change the background color and font color of your website.
+8. Add more content, such as paragraphs, lists, and links, to make your website more engaging!
